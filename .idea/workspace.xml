@@ -1,7 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aee140f0-0079-4005-b694-86eb5e10b819" name="Default" comment="" />
+    <list default="true" id="aee140f0-0079-4005-b694-86eb5e10b819" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/Johnson-Johnson-Logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/bank-of-america_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/centro_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/chevron.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/chevron_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/cvs-pharmacy_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/dept-ed.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/dept-ed_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/dept-state.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/dept-state_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/dupont_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/epa_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/exxon_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/glazers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/hhs_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/home-depot_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/lafarge_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/louisiana-deq.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/mdeq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/medtronic_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/merck-logo-innovation-innovator-disruption-incubator.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/roche_logo_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/techedge_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/temple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/tredegar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/tva_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/usps_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/westfield_grey.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/wwe_grey.jpeg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/West_Monroe_Partners_Logo.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/West_Monroe_Partners_Logo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/bank-of-america.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/bank-of-america.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/best-buy.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/best-buy.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/best-buy_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/best-buy_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/blockbuster.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/blockbuster.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/blockbuster_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/blockbuster_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/bp.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/bp.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/bp_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/bp_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/bristol-myers-squibb.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/bristol-myers-squibb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/cascade.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/cascade.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/cascade_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/cascade_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/centro.jpeg" afterPath="$PROJECT_DIR$/assets/img/clients/centro.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/cvs-pharmacy.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/cvs-pharmacy.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/dupont.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/dupont.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/epa.jpeg" afterPath="$PROJECT_DIR$/assets/img/clients/epa.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/exxon.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/exxon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/glazers.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/glazers.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/glazers_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/glazers_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/hhs.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/hhs.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/home-depot.jpeg" afterPath="$PROJECT_DIR$/assets/img/clients/home-depot.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/johnson-johnson.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/johnson-johnson.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/johnson-johnson_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/johnson-johnson_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/lafarge.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/lafarge.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/louisiana-deq.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/louisiana-deq.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/louisiana-deq_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/louisiana-deq_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/mdeq.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/mdeq.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/mdeq_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/mdeq_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/medtronic.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/medtronic.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/merck.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/merck.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/merck_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/merck_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/njdep.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/njdep.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/njdep_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/njdep_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/polo.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/polo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/polo_grey.jpeg" afterPath="$PROJECT_DIR$/assets/img/clients/polo_grey.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/roche_logo.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/roche_logo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/techedge.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/techedge.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/temple.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/temple.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/temple_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/temple_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/tredegar.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/tredegar.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/tredegar_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/tredegar_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/tva.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/tva.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/usps.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/usps.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/virginia-deq.jpeg" afterPath="$PROJECT_DIR$/assets/img/clients/virginia-deq.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/virginia-deq.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/virginia-deq.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/virginia-deq_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/virginia-deq_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/west-monroe.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/west-monroe.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/west-monroe_grey.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/west-monroe_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/westfield.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/westfield.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/manipulation/raw-images/raw-static-images/clients/wwe.jpg" afterPath="$PROJECT_DIR$/assets/img/clients/wwe.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template.html" afterPath="$PROJECT_DIR$/template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="gds.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,11 +117,9 @@
       <file leaf-file-name="template.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7299509" vertical-offset="10924" max-vertical-offset="13530">
-              <caret line="758" column="47" selection-start-line="758" selection-start-column="47" selection-end-line="758" selection-end-column="47" />
-              <folding>
-                <marker date="1405724988000" expanded="true" signature="28642:28646" placeholder="..." />
-              </folding>
+            <state vertical-scroll-proportion="-0.7504488" vertical-offset="8263" max-vertical-offset="13530">
+              <caret line="523" column="24" selection-start-line="523" selection-start-column="24" selection-end-line="523" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -126,6 +205,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="manipulation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="raw-images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manipulation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="raw-images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="raw-static-images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -145,28 +264,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clients2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -213,6 +310,7 @@
       <recent name="$PROJECT_DIR$/assets/css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/clients" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -282,14 +380,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-199" y="-1058" width="1884" height="1058" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17569003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17569003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962587" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -335,9 +433,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="225">
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding>
-            <marker date="1405724988000" expanded="true" signature="28642:28646" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -399,11 +495,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7299509" vertical-offset="10924" max-vertical-offset="13530">
-          <caret line="758" column="47" selection-start-line="758" selection-start-column="47" selection-end-line="758" selection-end-column="47" />
-          <folding>
-            <marker date="1405724988000" expanded="true" signature="28642:28646" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="-0.7504488" vertical-offset="8263" max-vertical-offset="13530">
+          <caret line="523" column="24" selection-start-line="523" selection-start-column="24" selection-end-line="523" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
