@@ -9,7 +9,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pricing.html" afterPath="$PROJECT_DIR$/pricing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/privacy-policy.html" afterPath="$PROJECT_DIR$/privacy-policy.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/steve-offut.html" afterPath="$PROJECT_DIR$/steve-offut.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terms-of-service.html" afterPath="$PROJECT_DIR$/terms-of-service.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeline.html" afterPath="$PROJECT_DIR$/timeline.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todd-fein.html" afterPath="$PROJECT_DIR$/todd-fein.html" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="steve-offut.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/steve-offut.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875" vertical-offset="450" max-vertical-offset="6885">
-              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="120" selection-end-column="10" />
+            <state vertical-scroll-proportion="15.25" vertical-offset="5631" max-vertical-offset="6885">
+              <caret line="351" column="2" selection-start-line="351" selection-start-column="2" selection-end-line="425" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#0;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -56,12 +55,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jonathan-estes.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jonathan-estes.html">
+      <file leaf-file-name="matt-finkelstein.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/matt-finkelstein.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.9318181" vertical-offset="0" max-vertical-offset="6930">
-              <caret line="119" column="10" selection-start-line="119" selection-start-column="10" selection-end-line="119" selection-end-column="10" />
-              <folding />
+            <state vertical-scroll-proportion="6.461039" vertical-offset="0" max-vertical-offset="6915">
+              <caret line="398" column="24" selection-start-line="398" selection-start-column="24" selection-end-line="398" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#4;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#5;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#6;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#7;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,8 +125,8 @@
         <option value="$PROJECT_DIR$/privacy-policy.html" />
         <option value="$PROJECT_DIR$/services.html" />
         <option value="$PROJECT_DIR$/todd-fein.html" />
-        <option value="$PROJECT_DIR$/matt-finkelstein.html" />
         <option value="$PROJECT_DIR$/jonathan-estes.html" />
+        <option value="$PROJECT_DIR$/matt-finkelstein.html" />
       </list>
     </option>
   </component>
@@ -299,7 +308,11 @@
       <created>1406151640723</created>
       <updated>1406151640723</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add proper linking in header nav on all pages.">
+      <created>1406153400899</created>
+      <updated>1406153400899</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <option name="createChangelist" value="false" />
     <option name="createBranch" value="false" />
     <servers />
@@ -373,7 +386,8 @@
     <MESSAGE value="Remove topbar from all pages and fix title." />
     <MESSAGE value="Match footer on all pages." />
     <MESSAGE value="Add info to Jonathan Estes and Steve-Offut pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add info to Jonathan Estes and Steve-Offut pages" />
+    <MESSAGE value="Add proper linking in header nav on all pages." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add proper linking in header nav on all pages." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -683,7 +697,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.041666" vertical-offset="8570" max-vertical-offset="9495">
+        <state vertical-scroll-proportion="-17.0" vertical-offset="8547" max-vertical-offset="9495">
           <caret line="597" column="6" selection-start-line="524" selection-start-column="0" selection-end-line="597" selection-end-column="6" />
           <folding />
         </state>
@@ -691,8 +705,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/timeline.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6992231" vertical-offset="1170" max-vertical-offset="9075">
-          <caret line="120" column="10" selection-start-line="120" selection-start-column="10" selection-end-line="120" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.96670365" vertical-offset="7754" max-vertical-offset="9045">
+          <caret line="575" column="36" selection-start-line="575" selection-start-column="36" selection-end-line="575" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#li#6;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -701,16 +715,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/terms-of-service.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6492786" vertical-offset="1155" max-vertical-offset="4245">
-          <caret line="116" column="10" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.96670365" vertical-offset="2924" max-vertical-offset="4230">
+          <caret line="253" column="36" selection-start-line="253" selection-start-column="36" selection-end-line="253" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/paul-mannes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7158713" vertical-offset="1140" max-vertical-offset="6795">
-          <caret line="119" column="10" selection-start-line="119" selection-start-column="10" selection-end-line="119" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.96670365" vertical-offset="5384" max-vertical-offset="6765">
+          <caret line="417" column="32" selection-start-line="417" selection-start-column="32" selection-end-line="417" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#0;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -727,68 +741,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pricing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.7289221" vertical-offset="150" max-vertical-offset="10950">
-          <caret line="118" column="6" selection-start-line="118" selection-start-column="6" selection-end-line="118" selection-end-column="6" />
+        <state vertical-scroll-proportion="1.5822511" vertical-offset="9023" max-vertical-offset="10920">
+          <caret line="699" column="32" selection-start-line="699" selection-start-column="32" selection-end-line="699" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/privacy-policy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42207792" vertical-offset="1350" max-vertical-offset="4005">
-          <caret line="116" column="10" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.96753246" vertical-offset="2661" max-vertical-offset="3975">
+          <caret line="237" column="36" selection-start-line="237" selection-start-column="36" selection-end-line="237" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53571427" vertical-offset="1305" max-vertical-offset="8490">
-          <caret line="120" column="10" selection-start-line="120" selection-start-column="10" selection-end-line="120" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.96753246" vertical-offset="7101" max-vertical-offset="8460">
+          <caret line="533" column="36" selection-start-line="533" selection-start-column="36" selection-end-line="533" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/todd-fein.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5952381" vertical-offset="1235" max-vertical-offset="6735">
-          <caret line="119" column="6" selection-start-line="119" selection-start-column="6" selection-end-line="119" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#4;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#5;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#6;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#7;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matt-finkelstein.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64935064" vertical-offset="1185" max-vertical-offset="6810">
-          <caret line="119" column="10" selection-start-line="119" selection-start-column="10" selection-end-line="119" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#4;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#5;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#6;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#7;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/steve-offut.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875" vertical-offset="450" max-vertical-offset="6885">
-          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="120" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.96753246" vertical-offset="5301" max-vertical-offset="6705">
+          <caret line="413" column="32" selection-start-line="413" selection-start-column="32" selection-end-line="413" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#0;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -805,9 +783,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jonathan-estes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.9318181" vertical-offset="0" max-vertical-offset="6930">
-          <caret line="119" column="10" selection-start-line="119" selection-start-column="10" selection-end-line="119" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.96753246" vertical-offset="5496" max-vertical-offset="6900">
+          <caret line="426" column="36" selection-start-line="426" selection-start-column="36" selection-end-line="426" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steve-offut.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="15.25" vertical-offset="5631" max-vertical-offset="6885">
+          <caret line="351" column="2" selection-start-line="351" selection-start-column="2" selection-end-line="425" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#7;n#ul#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matt-finkelstein.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.461039" vertical-offset="0" max-vertical-offset="6915">
+          <caret line="398" column="24" selection-start-line="398" selection-start-column="24" selection-end-line="398" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#7;n#ul#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
