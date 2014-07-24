@@ -1,1 +1,5 @@
 /* Add here all your css styles (customizations) */
+.twitter-timeline {
+    font-size: 10px;
+    max-height: 250px;
+}
