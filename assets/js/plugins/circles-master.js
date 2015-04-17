@@ -122,17 +122,18 @@ var CirclesMaster = function () {
 		    for (var i = 1; i <= 4; i++) {
 		        var child = document.getElementById('circles-' + i),
 		            percentage = 45 + (i * 9);
-		            
-		        Circles.create({
-		            id:         child.id,
-		            percentage: percentage,
-		            radius:     70,
-		            width:      2,
-		            number:     percentage / 1,
-		            text:       '%',
-		            colors:     colors[i - 1],
-		            duration:   2000,
-		        });
+		        
+		        if(child)
+			        Circles.create({
+			            id:         child.id,
+			            percentage: percentage,
+			            radius:     70,
+			            width:      2,
+			            number:     percentage / 1,
+			            text:       '%',
+			            colors:     colors[i - 1],
+			            duration:   2000,
+			        });
 		    }	    
         }
 
